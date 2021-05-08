@@ -1,0 +1,14 @@
+node_modules
+package-lock.json
+answers.csv
+questions.csv
+answers_photos.csv
+csv_reader.js
+csv_reader.mjs
+trunc.csv
+to_trunc.csv
+database/db_schemas/mongo-schema.js
+database/db_schemas/postgres-schema.js
+database/scripts/time_flattener.js
+database/scripts/
+__tests__
